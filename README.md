@@ -1,16 +1,39 @@
-# webview_app
+# 🛍️ E-Commerce App – Flutter E-Commerce App
 
-A new Flutter project.
+**Homemade Bazaar** is a simple and elegant mobile e-commerce application built using **Flutter**. It allows users to browse and purchase **homemade and handcrafted products** via **WebView integration**, seamlessly parsing and displaying an external website within a native mobile experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧁 **Browse Homemade Products**
+  - Food, crafts, decor, and more – all made by local artisans.
+  
+- 🌐 **WebView Integration**
+  - Parses and loads the official homemade product website directly in the app.
+  - Ensures a consistent shopping experience inside the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🛒 **Seamless Shopping**
+  - Navigate the store, add to cart, and place orders via integrated WebView.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 💬 **Minimal UI**
+  - Lightweight and responsive interface for smooth performance.
+
+- 📦 **Secure Checkout**
+  - Web-based checkout handled within the embedded view.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose                           |
+|------------|-----------------------------------|
+| Flutter    | Cross-platform mobile development |
+| Dart       | Backend logic and state handling  |
+| WebView    | Displaying external content inside the app |
+| Android/iOS | Supported platforms               |
+
+> Optionally integrated with `flutter_inappwebview` or `webview_flutter` package.
+
+---
+
