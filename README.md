@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce App – Flutter E-Commerce App
+# 🛍️ Shopify Application – Flutter E-Commerce App
 
 **Homemade Bazaar** is a simple and elegant mobile e-commerce application built using **Flutter**. It allows users to browse and purchase **homemade and handcrafted products** via **WebView integration**, seamlessly parsing and displaying an external website within a native mobile experience.
 
